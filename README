@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1576
+
+This is a colorscheme with a dark grey background and foreground colors reminiscent of old crts -- yellows, bright greens, ambers, and whites. I find that the colors are easy on the eyes and non-distracting. There are 20 variations that can be changed on the fly. Works with gui, 8, 16+, and 256 color terms (see 256 color xterm). Any preferred variation can be made the default by setting a user-defined variable "T_CO" in the vimrc file with a statement like "let T_CO = 259". The colors can be changed within vim with ":set t_Co=259". (259 - looks like a green blackboard.)
